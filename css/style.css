@@ -56,4 +56,6 @@ ul {
     color: black;
     font-size: 20px;
     border-radius: 30px;
+    border: 1px solid rgb(0, 0, 0);
+    box-shadow: 0 0 10px rgb(0, 0, 0);
 }
